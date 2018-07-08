@@ -1,0 +1,9 @@
+com\algaworks\hospedagem\util\EntityManagerProducer.class
+com\algaworks\hospedagem\repository\Jogadores.class
+com\algaworks\hospedagem\bean\JogadorBean.class
+com\algaworks\hospedagem\util\PersistenceProperties.class
+com\algaworks\hospedagem\model\Jogador.class
+com\algaworks\hospedagem\bean\JogadoresPesquisaBean.class
+com\algaworks\hospedagem\service\JogadorService.class
+com\algaworks\hospedagem\util\TransacionalInterceptor.class
+com\algaworks\hospedagem\util\Transacional.class
